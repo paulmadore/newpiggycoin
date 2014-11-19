@@ -1,3 +1,6 @@
+Binary by Paul Madore - bytillionaire.com
+pY5MzYBNanGHD6zUYfwC7XLPUhw6xfER3d
+
 Piggycoin integration/staging tree
 ================================
 
